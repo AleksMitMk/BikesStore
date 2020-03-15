@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bike_Store/static/css/main.16187ae9.chunk.css",
+    "main.js": "/Bike_Store/static/js/main.72bd6e90.chunk.js",
+    "main.js.map": "/Bike_Store/static/js/main.72bd6e90.chunk.js.map",
+    "runtime-main.js": "/Bike_Store/static/js/runtime-main.9f52627e.js",
+    "runtime-main.js.map": "/Bike_Store/static/js/runtime-main.9f52627e.js.map",
+    "static/js/2.2be5c075.chunk.js": "/Bike_Store/static/js/2.2be5c075.chunk.js",
+    "static/js/2.2be5c075.chunk.js.map": "/Bike_Store/static/js/2.2be5c075.chunk.js.map",
+    "index.html": "/Bike_Store/index.html",
+    "precache-manifest.d1895e07186c0bcd2d1c2a78ca009744.js": "/Bike_Store/precache-manifest.d1895e07186c0bcd2d1c2a78ca009744.js",
+    "service-worker.js": "/Bike_Store/service-worker.js",
+    "static/css/main.16187ae9.chunk.css.map": "/Bike_Store/static/css/main.16187ae9.chunk.css.map",
+    "static/media/logo.png": "/Bike_Store/static/media/logo.c13afca7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f52627e.js",
+    "static/js/2.2be5c075.chunk.js",
+    "static/css/main.16187ae9.chunk.css",
+    "static/js/main.72bd6e90.chunk.js"
+  ]
+}
