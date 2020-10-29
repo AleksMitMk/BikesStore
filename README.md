@@ -20,7 +20,7 @@ colored orange.</li>
 
 
 
-<h3>Technology Stack::</h3>
+<h3>Technology Stack:</h3>
 <ul>
   <li>React</li>
   <li>Axios</li>
