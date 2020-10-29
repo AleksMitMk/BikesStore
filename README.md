@@ -1,3 +1,49 @@
+<h1>Website store for bikes.</h1>
+<h3>The page is made with React, showing bicycle cards that are filtered by categories (gender and brand).</h3>
+
+
+![BikesStore](https://user-images.githubusercontent.com/57228808/97587955-4715dc00-19fc-11eb-88a8-77963ebff83e.gif)
+
+
+
+<h3>Functionality:</h3>
+<ul>
+  <li>The cards for every bike is created dynamically with JSX, looping through the array of objects.</li>
+  <li>On the left side, there is a sidebar containing filters.</li>
+  <li>On click on 'female', you should filter the array, and only cards which have 'gender' as 'female' is showing up on the screen.</li>
+  <li>When you click on some of the filters in the 'Brand' section, you should filter the
+array and show the cards which have the corresponding 'brand' (which is the name of the filter).</li>
+  <li>When you click on each filter, the name of the filter become bolder and
+colored orange.</li>
+  <li>There are also badges for every filter. These badges show how many items are in the corresponding filter.</li>
+</ul>
+
+
+
+<h3>Technology Stack::</h3>
+<ul>
+  <li>React</li>
+  <li>Axios</li>
+  <li>React-bootstrap</li>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
